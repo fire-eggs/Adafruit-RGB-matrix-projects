@@ -28,6 +28,6 @@ This is a simple little project which displays the current system time as an ana
 
 The demo projects included with the rgb-matrix library include a version of John Conway’s game of Life. The demo doesn’t really highlight the capabilities of the matrices, as it uses a single color.
 
-I adapted Adam Zheleznyak’s [“colorful-life”]((https://github.com/adam-zheleznyak/colorful-life)) to work on the matrix. Living cells will have a color assigned and children cells’ colors are derived from their parents. 
+I adapted Adam Zheleznyak’s [“colorful-life”](https://github.com/adam-zheleznyak/colorful-life) to work on the matrix. Living cells will have a color assigned and children cells’ colors are derived from their parents. 
 
 For more details, see the README in the project folder.
