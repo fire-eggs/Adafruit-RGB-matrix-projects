@@ -1,4 +1,4 @@
-"Colorful Life" for the AdaFruit RGB Matrix
+# "Colorful Life" for the AdaFruit RGB Matrix
 
 To run:
 
@@ -6,13 +6,23 @@ To run:
 
 The number of generations is hard-coded as 1000 (see `numFrames`). You can interrupt (Ctrl-C) at any time.
 
-Things to try:
+## Things to try:
 
 - Hard_boundary true or false. How many generations work well for the two different values?
 - Infinite cycle: when the number of frames is reached, reset and start again.
 - Other rules. Adam Zheleznyak's code includes the possibility of using alternative "rules" for the game.
   The current rule is hard-coded (see `rule`). Investigate changing the rule from his [examples file](https://github.com/adam-zheleznyak/colorful-life/blob/master/examples.py).
 
-TODO
-Picture!
-Video!
+## Pictures
+
+A few generations after random initialization:
+
+![Early generations](100_0404b.jpg)
+
+A couple more snaps:
+
+![Further evolution](100_0407b.jpg)
+
+![Yet more evolution](100_0409b.jpg)
+
+
