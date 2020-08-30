@@ -18,6 +18,6 @@ an example of this idea.
 
 ## Things to try:
 
-- The color for the hands is hard-coded, try your own colors or random changes!
+- The color for the hands and hour markers are hard-coded, try your own colors or random changes!
 - Add an am / pm indicator
 - "Night mode": use duller colors at "night".
